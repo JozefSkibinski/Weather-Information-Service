@@ -1,4 +1,4 @@
-# CS 342 Weather Information Service — Jozef Skibinski & Nathan Parikh
+# Weather Information Service — Jozef Skibinski & Nathan Parikh
 
 ## Requirements
 
@@ -21,7 +21,7 @@ java -cp target/classes weather.Main
 ## Run Tests
 
 ```bash
-mvn tests
+mvn test
 ```
 
 ## Design
